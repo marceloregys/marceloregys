@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 Atualmente estou trabalhando em Análise de Dados
 - 🔭 Aspirante a Engenheiro de Dados
 - 🌱 Atualmente estou aprendendo Python, Apache Airflow, Spark, SQL e AWS
 
@@ -47,4 +48,6 @@ Here are some ideas to get you started:
 <div>
   <a href="https://instagram.com/marceloregys" target="_blank"><img loading="lazy"  width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marceloregysgomes" target="_blank"><img loading="lazy" width="22px" src="https://github.com/marceloregys/marceloregys/blob/main/icones/linkedin.svg" target="_blank"></a>   
+  <a href="mailto:marceloregys@gmail.com" target="_blank"><img loading="lazy" width="22px" src="https://github.com/marceloregys/marceloregys/blob/main/icones/email.png" target="_blank"></a>     
+  <a href=https://www.youtube.com/@marceloregys target="_blank"><img loading="lazy" width="22px" src="https://github.com/marceloregys/marceloregys/blob/main/icones/youtube.png" target="_blank"></a>   
 </div>
